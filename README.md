@@ -12,7 +12,7 @@ Web plateform where journalist from conflicted country can share news about war 
 A secure decentralized hosting system, a great firewall, databases, a secure access system through web browser
 
 ### GrandReseauExchange (jai*)
-Web plateform for IT tutorial and community sharing
+Network peering platform. Providing map, stats and AS managment through router's API.
 
 # Working private project
 
