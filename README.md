@@ -1,9 +1,7 @@
 # Me
-- 👋 Hi, I’m @Surffren
 - :fr: I’m a French Admin System student (currently BAC +3) in apprenticeship
 - :sparkles: I’m intresting in network infrastructure and web development
-- :newspaper: Here is my website : tcportfol.io
-- 📫 How to reach me : chiffautthomas@tcportfol.io
+- :tada: Love CAT6 câble and making routers go skrrrt
 
 # Working public project
 
