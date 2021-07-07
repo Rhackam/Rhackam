@@ -1,7 +1,7 @@
 # Me
 - :fr: I’m a French Admin System student (currently BAC +3) in apprenticeship
 - :sparkles: I’m intresting in network infrastructure and web development
-- :tada: Love CAT6 câble and making routers go skrrrt
+- :tada: Love making BGP routes go skrrrt
 
 # Working public project
 
