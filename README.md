@@ -1,16 +1,16 @@
 # Me
 - :fr: I’m a French Admin System student (currently BAC +3) in apprenticeship
-- :sparkles: I’m intresting in network infrastructure and web development
+- :sparkles: I’m intrested in network infrastructure and web development
 - :tada: Love making BGP routes go skrrrt
 
 # Working public project
 
 ### AnyMedia
 Web plateform where journalist from conflicted country can share news about war or crime in their nation.
-A secure decentralized hosting system, a great firewall, databases, a secure access system through web browser
+A secure decentralized hosting system, a great firewall, databases, a secure access system through Tor web browser.
 
 ### GrandReseauExchange
-Network peering platform. Providing map, stats and AS managment through router's API.
+Network peering platform. Providing maps, stats and AS managment through router's API.
 
 # Working private project
 
