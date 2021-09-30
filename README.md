@@ -10,7 +10,7 @@ Web plateform where journalist from conflicted country can share news about war 
 A secure decentralized hosting system, a great firewall, databases, a secure access system through Tor web browser.
 
 ### GrandReseauExchange
-Network peering platform. Providing maps, stats and AS managment through router's API.
+Design interface tool for editing network and system flux schemas, based on electron js
 
 # Working private project
 
