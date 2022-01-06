@@ -1,18 +1,17 @@
 # Me
 - :fr: I’m a French Admin System student (currently BAC +3) in apprenticeship
-- :sparkles: I’m intrested in network infrastructure and web development
-- :tada: Love making BGP routes go skrrrt
+- 🛰️ I’m intrested in network infrastructure and web development
+- 💥 Love making BGP routes go skrrrt
 
-# Working public project
+# Working project
 
-### AnyMedia
-Web plateform where journalist from conflicted country can share news about war or crime in their nation.
-A secure decentralized hosting system, a great firewall, databases, a secure access system through Tor web browser.
-
-### GrandReseauExchange
-Design interface tool for editing network and system flux schemas, based on electron js
+### Whyred
+Electron JS application, design for one purpose: designing, editing and collaborating network and systems schemes and infrastructure topolgy. The app fit specially for the needs of network architects, network engieeners, sys admin, and more.
 
 # Working private project
+
+### Glaci.er
+Kubernetes cluster running many private stuff with a web portal
 
 ### tcportfol.io
 Portfolio
