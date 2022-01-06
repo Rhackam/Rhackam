@@ -1,5 +1,5 @@
 # Me
-- :fr: I’m a French Admin System student (currently BAC +3) in apprenticeship
+- 🇫🇷 I’m a French Admin System student (currently BAC +3) in apprenticeship
 - 🛰️ I’m intrested in network infrastructure and web development
 - 💥 Love making BGP routes go skrrrt
 
