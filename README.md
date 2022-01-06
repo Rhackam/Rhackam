@@ -6,7 +6,7 @@
 # Working project
 
 ### Whyred
-Electron JS application, design for one purpose: designing, editing and collaborating network and systems schemes and infrastructure topolgy. The app fit specially for the needs of network architects, network engieeners, sys admin, and more.
+Electron JS application, designed for one purpose: designing, editing and collaborating network infrastructures and systems schemes. The app fit especially for the needs of network architects, network engineers, sys admin, and more.
 
 # Working private project
 
