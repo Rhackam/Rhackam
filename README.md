@@ -6,12 +6,12 @@
 # Working project
 
 ### Whyred
-Electron JS application, designed for one purpose: designing, editing and collaborating network infrastructures and systems schemes. The app fit especially for the needs of network architects, network engineers, sys admin, and more.
+Electron JS / React based application, designed for one purpose: designing, editing and collaborating network infrastructures and systems schemes. The app fit especially for the needs of network architects, network engineers, sys admin, and more.
+
+### Kook
+Electron JS / React based application, designed for one purpose: running procedures or recipes to help you in your repetitive tasks. Create, run, archive, recycle procedures for IT, Chemistry, Cooking, or what ever you want.
 
 # Working private project
-
-### Glaci.er
-Kubernetes cluster running many private stuff with a web portal
 
 ### tcportfol.io
 Portfolio
