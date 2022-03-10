@@ -5,7 +5,7 @@
 
 # Working project
 
-### Whyred
+### Whyrd
 Electron JS / React based application, designed for one purpose: designing, editing and collaborating network infrastructures and systems schemes. The app fit especially for the needs of network architects, network engineers, sys admin, and more.
 
 ### Kook
