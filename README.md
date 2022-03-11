@@ -1,5 +1,5 @@
 # Me
-- 🇫🇷 I’m a French Admin System student (currently BAC +3) in apprenticeship
+- 🇫🇷 I’m a French Unix IT Admin System working at the CARSAT (State Pension and Occupational Health Funds) Rhones-Alps Office, locatated in Lyon.
 - 🛰️ I’m intrested in network infrastructure and web development
 - 💥 Love making BGP routes go skrrrt
 
