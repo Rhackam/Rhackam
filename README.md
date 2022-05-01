@@ -13,7 +13,7 @@ Electron JS / React based application, designed for one purpose: running procedu
 
 # Working private project
 
-### tcportfol.io
+### tcportfolio.net
 Portfolio
 
 <!---
