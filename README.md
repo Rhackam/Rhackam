@@ -1,5 +1,5 @@
 # Me
-- 🇫🇷 I’m a French Unix IT Admin System working at the CARSAT (State Pension and Occupational Health Funds) Rhones-Alps Office, locatated in Lyon.
+- 🇫🇷 I’m a French Unix IT Admin System working at the CARSAT (State Pension and Occupational Health Funds), locatated in Lyon.
 - 🛰️ I’m intrested in network infrastructure and web development
 - 💥 Love making BGP routes go skrrrt
 
