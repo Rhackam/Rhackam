@@ -3,7 +3,7 @@
 - 🛰️ I’m intrested in network infrastructure and web development
 - 💥 Love making BGP routes go skrrrt
 
- <script src="https://tryhackme.com/badge/1096474"></script>
+![tryhackme stats](https://raw.githubusercontent.com/surffren/surffren/master/assets/thm_propic.png)
 
 # Working project
 
