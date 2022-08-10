@@ -3,6 +3,8 @@
 - 🛰️ I’m intrested in network infrastructure and web development
 - 💥 Love making BGP routes go skrrrt
 
+ <script src="https://tryhackme.com/badge/1096474"></script>
+
 # Working project
 
 ### Whyrd
