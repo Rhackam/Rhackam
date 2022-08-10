@@ -1,10 +1,20 @@
 # Me
-- 🇫🇷 I’m a French Unix IT Admin System working at the CARSAT (State Pension and Occupational Health Funds), locatated in Lyon.
+<table>
+  <tr>
+    <td>
+    
+- 🇫🇷 I’m a French Unix IT Admin System working at the CARSAT (State Pension and Occupational Health Funds), locatated in Lyon
 - 🛰️ I’m intrested in network infrastructure and web development
 - 💥 Love making BGP routes go skrrrt
+      
+    </td>
+    <td>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Suffren.png" alt="TryHackMe">
+    </td>
+  </tr>
+</table>
 
-![tryhackme stats](https://raw.githubusercontent.com/surffren/surffren/master/assets/thm_propic.png)
-
+ 
 # Working project
 
 ### Whyrd
