@@ -9,7 +9,7 @@
       
     </td>
     <td>
-        <script src="https://tryhackme.com/badge/1096474"></script>
+         <img src="https://tryhackme-badges.s3.amazonaws.com/Suffren.png" alt="TryHackMe">
     </td>
   </tr>
 </table>
