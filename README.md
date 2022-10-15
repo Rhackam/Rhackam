@@ -3,7 +3,11 @@
 - 🇫🇷 I’m a French Unix IT Admin System working at the CARSAT (State Pension and Occupational Health Funds), locatated in Lyon
 - 🛰️ I’m intrested in network infrastructure and web development
 - 💥 Love making BGP routes go skrrrt
-<img style="width: 300px; border-radius: 15px; margin-left: 15px" src="https://assets.tryhackme.com/room-badges/8e753fe8ecd25e8431330fe501fc99bf.png" alt="TryHackMeBadge">
+
+<div>
+ <img style="display: inline; width: 300px; border-radius: 15px; margin-left: 15px" src="https://assets.tryhackme.com/room-badges/8e753fe8ecd25e8431330fe501fc99bf.png" alt="TryHackMeBadge">
+ <img style="display: inline; width: 300px; border-radius: 15px; margin-left: 15px" src="https://assets.tryhackme.com/room-badges/e6234bcc33ca84d89fb81f71c538dedf.png" alt="TryHackMeBadge">
+</div>
  
 # Working project
 
