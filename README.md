@@ -1,6 +1,6 @@
 # Me
 
-- 🇫🇷 I’m a French Unix IT Admin System working at network security European Leader Stormshield
+- 🇫🇷 I’m a French Unix IT Admin System working at Stormshield the European Leader in network security
 - 🛰️ I’m interested in network infrastructures, POSIX/UNIX systems and web development
 - 💥 Love making BGP routes go crazy
 
